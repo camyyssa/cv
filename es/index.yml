@@ -1,0 +1,148 @@
+profile:
+  name: Camelia Smeria
+  label: Desarrolladora Web Full Stack
+  email: camelia.smeria@gmail.com
+  summary: Creo en aportar valor a las vidas de quienes me rodean. A nivel
+    profesional, esto se traduce en crear software accesible adaptado a las
+    necesidades del usuario. Pero por encima de todo, significa esforzarme por
+    convertirme en la mejor programadora y persona que puedo ser.
+
+
+    La pasión por todo lo lógico ha sido la fuerza que me acercó a la
+    informática desde que me topé con mis primeras líneas de código en el
+    ordenador de mi hermano mayor. Pequeños bloques de construcción, con algo
+    de lógica aplicada, ensamblados de cierta manera, y las cosas se mueven tal
+    y como las imaginas. Dedícale suficiente tiempo y la diversión nunca
+    termina.
+
+
+    Avanzando hasta hoy, con un máster y experiencia en la industria, la
+    alegría de hacer que las cosas funcionen no ha terminado. Es más, me
+    desafía cada día a esforzarme más, encontrar mejores soluciones y aprender
+    cosas nuevas constantemente.
+
+
+    Me apasiona convertir problemas complejos en soluciones simples y
+    accesibles.
+
+social:
+  - network: GitHub
+    url: https://github.com/camyyssa
+  - network: Instagram
+    url: https://www.instagram.com/camyyssa/
+  - network: LinkedIn
+    url: https://www.linkedin.com/in/cameliasmeria/
+
+work:
+  - company: Jaapi AB
+    from: Enero 2025
+    summary: Jaapi es una plataforma de merchandising bajo demanda que permite a las empresas distribuir productos de marca a equipos remotos y globales a través de una red de centros de distribución en todo el mundo, produciendo artículos localmente sin mínimos y sin almacenamiento.
+    highlights:
+      - summary: Desarrollo full-stack de la plataforma de merchandising.
+        keywords:
+          - React
+          - TypeScript
+          - Node
+      - summary: Uso extensivo de herramientas de IA para facilitar y semi-automatizar las actividades empresariales del día a día.
+
+  - company: Proposales AB
+    from: Febrero 2020
+    until: Enero 2025
+    summary: Proposales está creando el nuevo estándar para las propuestas comerciales. Creemos que redactar propuestas atractivas, con buen aspecto en escritorio y móvil y adaptadas al mundo moderno, debería ser fácil y rápido.
+    highlights:
+      - summary: Modernización y mantenimiento de la solución full-stack para el sitio web y la aplicación web.
+        keywords:
+          - React
+          - JavaScript
+          - GraphQL
+          - Node
+      - summary: Enfoque en la comunicación del equipo
+      - summary: Formas de hacer prosperar un equipo de desarrollo remoto
+      - summary: "Funcionalidad principal: envío de propuestas a múltiples destinatarios, utilizada en producción por un gran número de propuestas"
+
+  - company: Magine AB Sweden
+    from: Febrero 2017
+    until: Febrero 2020
+    summary: Magine es una empresa de streaming de vídeo cuyo objetivo es llevar tus canales de televisión y películas favoritos a donde quieras.
+    highlights:
+      - summary: Desarrollo de la aplicación de streaming de vídeo desde sus primeras etapas hasta 6 socios con usuarios activos.
+        keywords:
+          - React
+          - JavaScript
+          - GraphQL
+          - Video Streaming
+      - summary: Liderazgo de un equipo de desarrollo en 4 países
+      - summary: Enfoque en la comunicación del equipo
+      - summary: Mi primer experimento como nómada digital
+
+  - company: ENGL Engineering OHG
+    from: Abril 2015
+    until: Octubre 2016
+    summary: Construcción de un sistema inteligente que extrae información de forma autónoma y evalúa productos según las necesidades específicas del usuario final.
+
+  - company: MIRS Consulting GmbH
+    from: Septiembre 2014
+    until: Marzo 2015
+    summary: MIRS es una pequeña consultora que trabaja con sistemas CMS para una gran planta química.
+    highlights:
+      - summary: Desarrollo de un sistema de gestión del tiempo basado en web.
+        keywords:
+          - C#
+          - ASP.NET
+
+  - company: ENGL Gerätebau GmbH
+    from: Julio 2012
+    until: Agosto 2014
+    summary: Desarrollo de diversas soluciones de software para un pequeño fabricante de amplificadores de guitarra.
+    highlights:
+      - summary: Programación de microcontroladores para pequeños proyectos internos
+        keywords:
+          - C
+          - C++
+          - Atmel
+      - summary: Diseño y programación de un sistema interno de gestión de inventario
+        keywords:
+          - C#
+          - WPF
+          - SQL
+
+education:
+  - institution: University of Amsterdam
+    area: Inteligencia Artificial con aplicaciones en Ciencias Forenses
+    degree: Máster en Investigación
+    from: Septiembre 2009
+    until: Septiembre 2011
+
+  - institution: Alexandru Ioan Cuza University Iasi
+    area: Ciencias de la Computación
+    degree: Licenciatura
+    from: Septiembre 2005
+    until: Julio 2009
+
+skills:
+  - name: Frontend
+    keywords:
+      - React
+      - JavaScript
+      - TypeScript
+      - GraphQL
+      - WPF
+  - name: Backend
+    keywords:
+      - Node
+      - SQL
+  - name: Otros
+    keywords:
+      - Liderazgo de equipos
+      - Equipos remotos
+      - Video Streaming
+
+languages:
+  - name: Inglés
+    level: Avanzado
+  - name: Español
+    level: A2
+  - name: Alemán
+    level: Dominio profesional limitado
+  - name: Rumano
+    level: Nativo
