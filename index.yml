@@ -23,7 +23,7 @@ profile:
     help them fix them.
 
 
-    So what can I do to help you today?
+    I thrive on turning complex problems into simple, accessible solutions.
 
 social:
   - network: GitHub
@@ -34,8 +34,19 @@ social:
     url: https://www.linkedin.com/in/cameliasmeria/
 
 work:
+  - company: Jaapi AB
+    from: January 2025
+    summary: Jaapi is an on-demand branded merchandise platform that enables companies to distribute swag to remote and global teams through a network of fulfillment centers worldwide, producing items locally with no minimums and zero warehousing.
+    highlights:
+      - summary: Full-stack development of the merchandise platform.
+        keywords:
+          - React
+          - TypeScript
+          - Node
+
   - company: Proposales AB
     from: February 2020
+    until: January 2025
     summary: Proposales is creating the new standard for proposals. We believe writing beautiful proposals, that look good on desktop and mobile, and are fit for the modern world should be easy and fast.
     highlights:
       - summary: Modernizing and maintaining the full-stack solution for the website and the webapp.
@@ -46,6 +57,7 @@ work:
           - Node
       - summary: Focus on team communication
       - summary: Ways to make a remote development team thrive
+      - summary: "Major feature: sending proposals to multiple recipients, used in production by a large number of proposals at the moment"
 
   - company: Magine AB Sweden
     from: February 2017
@@ -60,7 +72,7 @@ work:
           - JavaScript
           - GraphQL
           - Video Streaming
-      - summary: Leading a developer team accross 4 countries
+      - summary: Leading a developer team across 4 countries
       - summary: Focus on team communication
       - summary: My first experiment as a digital nomad
 
@@ -110,9 +122,29 @@ education:
     from: September 2005
     until: July 2009
 
+skills:
+  - name: Frontend
+    keywords:
+      - React
+      - JavaScript
+      - TypeScript
+      - GraphQL
+      - WPF
+  - name: Backend
+    keywords:
+      - Node
+      - SQL
+  - name: Other
+    keywords:
+      - Team Leadership
+      - Remote Teams
+      - Video Streaming
+
 languages:
   - name: English
     level: Proficient
+  - name: Spanish
+    level: A2
   - name: German
     level: Limited Professional proficiency
   - name: Romanian

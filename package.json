@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:camyyssa/camyyssa.github.io.git",
-  "author": "Camelia Smeria <camelia.smeria@magine.com>",
+  "author": "Camelia Smeria <camelia.smeria@gmail.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.28.6",
+    "@babel/preset-react": "^7.28.5",
+    "styled-jsx": "^5.1.7",
     "turtle-cv": "https://github.com/aengl/turtle-cv"
   },
   "scripts": {
-    "build": "turtle-cv index.yml --watch"
+    "build": "turtle-cv index.yml",
+    "dev": "turtle-cv index.yml --watch"
   }
 }

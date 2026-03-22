@@ -1,8 +1,8 @@
 # How to build the cv
 
 ```
-yarn
-yarn build
+pnpm install
+pnpm build
 ```
 
 Commit, and then push to master
